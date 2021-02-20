@@ -1,0 +1,33 @@
+
+body {
+    background-color: rgb(241, 242, 243);
+}
+
+.jumbotron {
+    background-color: white;
+    text-align: center;
+    padding: 10px 0px 100px 0px;
+}
+
+/* img {
+    height: 100px;
+    width: 450px;
+} */
+
+.container {
+    background-color: white;
+    margin-top: 300px;
+}
+
+#ssn-input {
+    float: right;
+}
+
+#dob-input {
+    float: right;
+}
+
+p {
+    color: rgb(75,113,176);
+    font-size: 26px;
+}
