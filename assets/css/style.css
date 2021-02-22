@@ -82,3 +82,14 @@ label {
 .btn:hover {
     background-color: gray;
 }
+
+.btn:active, .btn:focus {
+    background-color: rgb(161,197,91) !important;
+    border: 0;
+    box-shadow: 0 5px 0 0 #717A5E;
+}
+
+input {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
